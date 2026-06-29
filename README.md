@@ -31,7 +31,9 @@
 ### 📂 Featured Projects
 
 * [Olist E-Commerce: Review Scores & Repeat Purchase Behavior](https://github.com/fabiotavares01/olist-repeat-purchase-behavior-analysis) - Analyzing repeat purchase behavior on Olist and whether customer reviews affect that behavior. Built with PostgreSQL and Power BI.
-* **[Project Name](Link to Repo/Demo)** - A brief 1-2 sentence description of what this does and the tech stack used.
+* Project
+* Project
+* Project
 
 ---
 
