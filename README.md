@@ -2,7 +2,7 @@
 
 ### 🚀 Data Analyst
 
-(insert description)
+[Insert description]
 
 ---
 
