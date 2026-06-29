@@ -39,7 +39,6 @@
 
 ### 📫 Connect with Me
 
-* 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-username)
-* 🐦 Twitter/X: [@your_handle](https://twitter.com/your_username)
+* 💼 LinkedIn: [fábio-tavares](www.linkedin.com/in/fábio-tavares-653ba7277)
 * 🌐 Portfolio Website: [your-site.com](https://your-site.com)
 * 
