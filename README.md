@@ -2,7 +2,7 @@
 
 ### 🚀 Data Analyst
 
-I am a passionate software engineer specializing in building clean, scalable applications. Currently, I'm focused on mastering [insert technology, e.g., React/Next.js or cloud architecture] and contributing to open-source.
+(insert description)
 
 ---
 
