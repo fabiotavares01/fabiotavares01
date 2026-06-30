@@ -3,7 +3,7 @@
 ### 🚀 Data Analyst
 
 I'm a Data Analyst who enjoys working with raw data and transforming it into visually appealing and useful dashboards. My process is to clean and manipulate the data in SQL and Power Query, then build the visual aspects in Power BI, where I also use DAX. I care about turning raw data into clear, important information that helps people and businesses make better decisions. Here you'll find my portfolio projects — dashboards and reports, each fully documented.
-Open to opportunities — feel free to reach out.
+Open to opportunities, feel free to reach out.
 
 ---
 
