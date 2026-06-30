@@ -40,5 +40,3 @@
 ### 📫 Connect with Me
 
 * 💼 LinkedIn: [fábio-tavares](https://linkedin.com/in/fábio-tavares-653ba7277)
-* 🌐 Portfolio Website: [your-site.com](https://your-site.com)
-* 
