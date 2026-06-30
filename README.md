@@ -30,7 +30,7 @@
 
 ### 📂 Featured Projects
 
-* [Olist E-Commerce: Review Scores & Repeat Purchase Behavior](https://github.com/fabiotavares01/olist-repeat-purchase-behavior-analysis) - Analyzing repeat purchase behavior on Olist and whether customer reviews affect that behavior. Built with PostgreSQL and Power BI.
+* [Olist E-Commerce: Review Scores & Repeat Purchase Behavior](https://github.com/fabiotavares01/olist-repeat-purchase-behavior-analysis) - Analyzing repeat purchase behavior on Olist and whether customer reviews affect that behavior.
 * [Video Games Sales by Release Year Analysis](https://github.com/fabiotavares01/video-games-sales-by-release-year) - An interactive Power BI report analyzing global video games sales by release year, covering data from 1980 to 2016 across multiple regions, publishers, video games, platforms and genres.
 * [Employment Vs. Unemployment](https://github.com/fabiotavares01/employment_vs_unemployment/tree/main) - An interactive Power BI report analyzing global employment and unemployment rates across 195 countries from 1991 to 2025, broken down by age group, gender, continent and country.
 * [Insert Project]
