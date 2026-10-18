@@ -32,6 +32,7 @@ Open to opportunities, feel free to reach out.
 ### 📂 Featured Projects
 
 * [Olist E-Commerce: Review Scores & Repeat Purchase Behavior](https://github.com/fabiotavares01/olist-repeat-purchase-behavior-analysis) - Analyzing repeat purchase behavior on Olist and whether customer reviews affect that behavior.
+* [Harry Kane: 2024/2025 Season Performance Tracker](https://github.com/fabiotavares01/harry-kane-2024-2025-season-tracker) - Tracking Harry Kane's performance across club and international football in the 2024/2025 season, built on a live-sourced relational data pipeline.
 * [Video Games Sales by Release Year Analysis](https://github.com/fabiotavares01/video-games-sales-by-release-year) - An interactive Power BI report analyzing global video games sales by release year, covering data from 1980 to 2016 across multiple regions, publishers, video games, platforms and genres.
 * [Employment Vs. Unemployment](https://github.com/fabiotavares01/employment_vs_unemployment/tree/main) - An interactive Power BI report analyzing global employment and unemployment rates across 195 countries from 1991 to 2025, broken down by age group, gender, continent and country.
 * [CAP U-17 Futsal Analytics — 2025/2026 Season](https://github.com/fabiotavares01/futsal-u-17-analysis-2025-2026/blob/main/README.md) - An interactive Power BI report analyzing a Futsal Club U-17 offensive, defensive, players and goalkeepers stats across the season 2025/2026.
